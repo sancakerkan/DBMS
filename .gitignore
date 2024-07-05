@@ -1,0 +1,5 @@
+# Ignore database connection configuration
+src/dbtasks/Group11DB.java
+
+# Ignore compiled Java class files
+*.class
