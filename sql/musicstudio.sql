@@ -1,4 +1,4 @@
-xCREATE TABLE public.course (
+CREATE TABLE public.course (
 	course_id int4 NOT NULL,
 	course_type varchar(20) NOT NULL,
 	course_price int4 NOT NULL,
